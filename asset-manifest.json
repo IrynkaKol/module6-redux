@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/module6-redux/static/css/main.aaaf48ca.css",
+    "main.js": "/module6-redux/static/js/main.1801c95c.js",
+    "index.html": "/module6-redux/index.html",
+    "main.aaaf48ca.css.map": "/module6-redux/static/css/main.aaaf48ca.css.map",
+    "main.1801c95c.js.map": "/module6-redux/static/js/main.1801c95c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaaf48ca.css",
+    "static/js/main.1801c95c.js"
+  ]
+}
