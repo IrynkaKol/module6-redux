@@ -10,6 +10,7 @@ export const StatusFilter = () => {
   const filter = useSelector(getStatusFilter);
 
   const handleFilterChange = filter => dispatch(setStatusFilter(filter));
+  
   return (
     <div className={css.wrapper}>
       <Button
