@@ -20,6 +20,7 @@ export const TaskList = () => {
   const statusFilter = useSelector(getStatusFilter);
   const visibleTasks = getVisibleTasks(tasks, statusFilter);
 
+  
   return (
     <ul className={css.list}>
       {visibleTasks.map(task => (
